@@ -1,0 +1,10 @@
+^D:\WORK\INSCHOOL\CG\CG_PROJECT_GROUP19\CG_PROJECT_GROUP19_CODE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/work/InSchool/cg/cg_project_group19/cg_project_group19_code -BD:/work/InSchool/cg/cg_project_group19/cg_project_group19_code/build --check-stamp-file D:/work/InSchool/cg/cg_project_group19/cg_project_group19_code/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

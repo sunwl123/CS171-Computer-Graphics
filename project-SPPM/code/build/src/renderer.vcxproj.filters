@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\work\InSchool\cg\cg_project_group19\cg_project_group19_code\src\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\InSchool\cg\cg_project_group19\cg_project_group19_code\src\hitpoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\InSchool\cg\cg_project_group19\cg_project_group19_code\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\InSchool\cg\cg_project_group19\cg_project_group19_code\src\object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\InSchool\cg\cg_project_group19\cg_project_group19_code\src\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\InSchool\cg\cg_project_group19\cg_project_group19_code\src\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\work\InSchool\cg\cg_project_group19\cg_project_group19_code\src\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\work\InSchool\cg\cg_project_group19\cg_project_group19_code\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EA893012-7E0D-313E-B0B3-7409849AE8B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

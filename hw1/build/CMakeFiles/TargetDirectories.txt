@@ -1,0 +1,12 @@
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/CMakeFiles/main.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/CMakeFiles/INSTALL.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/libs/glfw/CMakeFiles/uninstall.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/libs/glfw/CMakeFiles/INSTALL.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/libs/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/libs/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/libs/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/libs/glm/CMakeFiles/INSTALL.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/libs/glm/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/assignment-1-sunwl123/build/libs/glm/glm/CMakeFiles/INSTALL.dir
